@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=nikitaj832&color=ff69b4&style=flat-square)
 
-### 👩‍💻 Data Engineer | Databricks Certified Associate
+### 👩‍💻 Data Engineer 
 Passionate about building scalable ETL pipelines, cloud data warehouses, and automated data solutions using modern cloud data stacks.
 
 ---
